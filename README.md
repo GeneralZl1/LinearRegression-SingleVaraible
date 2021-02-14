@@ -1,2 +1,2 @@
 # LinearRegression-SingleVaraible
-Simple Linear Regression model using a single variable 
+Simple Linear Regression model using a StatsModels
